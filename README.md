@@ -4,7 +4,7 @@ A fully responsive restaurant website built using HTML and CSS. This project inc
 
 ## 🌐 Live Demo
 
-[🔗 View Live (optional link)](https://your-live-demo-link.com)
+[🔗 View Live ](https://rajeshece1138.github.io/Restaurant-Website/)
 
 ## 💡 Features
 
@@ -23,7 +23,4 @@ A fully responsive restaurant website built using HTML and CSS. This project inc
 - CSS3
 - Google Fonts (Poppins)
 - Font Awesome (optional)
-- jQuery (for smooth scroll if used externally)
-
-## 📁 Project Structure
-
+- jQuery 
